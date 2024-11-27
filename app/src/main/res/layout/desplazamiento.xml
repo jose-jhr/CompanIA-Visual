@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/containerDesplazamiento"
+    android:layout_gravity="center_vertical|end"
+    >
+
+    <ImageView
+        android:id="@+id/imgDesArriba"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/baseline_arrow_circle_up_24"
+        android:layout_marginBottom="1dp"
+         />
+
+    <ImageView
+        android:id="@+id/imgDesAbajo"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/baseline_arrow_circle_down_24"
+        android:layout_marginTop="1dp"
+        />
+
+
+
+</LinearLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#1b1f3c</color>
+
+
+    <color name="alpha_black">#999999</color>
+    <color name="alpha_red">#FF8888</color>
+    <color name="alpha_green">#909EFF</color>
+    <color name="alpha_amarillo">#FFE892</color>
+    <color name="alpha_verde">#8AFF8A</color>\
+    <color name="alpha_morado">#D3ADFF</color>
+
+</resources>
